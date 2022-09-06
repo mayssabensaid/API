@@ -1,0 +1,9 @@
+.user{
+    text-align: center;
+    display : flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    border-radius: 5px;
+    padding: 20px;
+}
